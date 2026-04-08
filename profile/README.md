@@ -3,7 +3,7 @@
 * **App on the Field & Usage Stories**: [1](https://github.com/orgs/DataRun-ye/discussions/38), [2](https://github.com/DataRun-ye/.github/wiki/App-on-the-field)
 * **[Project Side Notes](https://shadowed-duke-071.notion.site/114478a2374e80e79e2fe953e8239433?v=114478a2374e80b1b43d000c74357d29)**
 * **[App Releases (Android & Desktop)](https://github.com/DataRun-ye/data-run-mobile/releases)**
-* **[Architictural concerns and design choices](https://github.com/Hamza-ye/datarun-lmis/tree/main/docs)**
+* **[Docs | Architictural concerns | design choices](https://github.com/Hamza-ye/datarun/tree/master)**
 ---
 
 ## Status Summary
